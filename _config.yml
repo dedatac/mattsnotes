@@ -1,17 +1,1 @@
 theme: minima
-remote_theme: "jekyll/minima@1e8a445"
-minima: 
-  # solarized-dark
-  dark
-  # footer: false # didn't work
-
-
-# remote_theme: pages-themes/midnight@v0.2.0
-# plugins:
-# - jekyll-remote-theme # add this line to the plugins list if you already have one
-
-# remote_theme: "jekyll/minima@1e8a445"
-
-# remote_theme: pages-themes/midnight@v0.2.0
-# plugins:
-# - jekyll-remote-theme # add this line to the plugins list if you already have one
