@@ -1,5 +1,8 @@
 minima:
   skin: dark
   show_excerpts: true
+  date_format: "%b %-d, %Y"
+# Minima date format
+# refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
 
 remote_theme: "jekyll/minima"
