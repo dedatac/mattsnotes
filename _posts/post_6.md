@@ -16,3 +16,19 @@
 
     https://www.willowtreeapps.com/craft/10-speech-to-text-models-tested
 
+    updates:
+    - whisper v slow in colab
+    - apple makes it difficult to get much of their transcript
+
+https://www.reddit.com/r/shortcuts/comments/1b9wc2i/is_there_any_way_to_copy_transcript_from_podcast/
+
+https://podcasters.apple.com/support/5316-transcripts-on-apple-podcasts
+
+4. [stretch goal] add diarization
+
+whisper taking forever and might want this anyway just for comparison
+https://github.com/mattdanielmurphy/apple-podcast-transcript-extractor
+
+- discuss ttml vs formats whisper can output
+
+https://github.com/Dash-Industry-Forum/dash.js/issues/478
